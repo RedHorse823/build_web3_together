@@ -75,7 +75,7 @@ yarn deploy:morphTestnet
 
 ### Verify your contracts on Morph Explorer
 
-To verify your contract through hardhat, you need to add the following Etherscan and Sourcify configs to your hardhat.config.js file:
+To verify your contract through hardhat, you need to add the following Etherscan and Sourcify configs to your hardhat.config.js file :
 
 ```javascript
 module.exports = {
